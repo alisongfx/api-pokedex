@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -42,3 +43,18 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+=======
+
+# Pokedex API 
+
+Desenvolvi uma interface consumindo uma API de Pokemon.
+O projeto foi desenvolvido apenas para praticar o consumo de API's.
+
+API: https://pokeapi.co/
+
+
+## Utilizando a Pokedex
+Acesse: https://alisongfx.github.io/api-pokedex/
+
+<img src="/assets/images/pokedexfinal.png">
+>>>>>>> 41c53d313a6d441c1a7d001cd67c389105734f4c
