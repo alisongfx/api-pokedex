@@ -6,7 +6,7 @@ const input = document.querySelector('.input_search');
 const btnPrev = document.querySelector('.btn-prev');
 const btnNext = document.querySelector('.btn-next');
 
-let searchPokemon = 3;
+let searchPokemon = 1;
 
 const fetchPokemon = async (pokemon) => {
     const ApiResponse = await fetch(`https://pokeapi.co/api/v2/pokemon/${pokemon}`);
